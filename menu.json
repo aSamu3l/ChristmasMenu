@@ -1,0 +1,20 @@
+{
+  "appetizer": [
+    "Formaggio",
+    "Prosciutto",
+    "Olive"
+  ],
+  "first course": [
+    "Lasagna",
+    "Risotto ai funghi"
+  ],
+  "main course": [
+    "Tacchino arrosto",
+    "Patate al forno"
+  ],
+  "dessert": [
+    "Tiramisù",
+    "Pandoro",
+    "Panettone"
+  ]
+}
